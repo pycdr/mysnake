@@ -1,7 +1,7 @@
 import termpixels as term
-from getch import getch
 from random import randint,choice
 import sys
+# from getch import getch
 
 class main(term.App):
 	def __init__(self):
